@@ -17,7 +17,7 @@ Project Objective:
 ## 🖥️ Installation
 
 ### 🛠️ Requirements
-
+- Tensorflow 2.7.0
     
 ## ⚙️ Setup
 
