@@ -20,7 +20,10 @@ Project Objective:
 - Tensorflow 2.7.0
     
 ## ⚙️ Setup
-
+- Install :-
+```bash
+  pip install tensorflow
+```
 ## Deployment
 
 
