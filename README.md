@@ -4,7 +4,6 @@
 Project Objective:
 1. Speak into a microphone one language
 2. The program interprets and outputs the sentence you've spoken.
-3. The program takes the output, uses it as input and outputs appropriate spanish translation.
 
 
 ## ⏳ Dataset
@@ -26,6 +25,18 @@ Edan Meyer [Let's Recreate Google Translate! | Neural Machine Translation](https
 ```
 ```bash
   pip install transformers sentencepiece datasets
+```
+```bash
+  pip install ipywidgets
+```
+```bash
+  pip install matplotlib
+```
+```bash
+  pip install seaborn
+```
+```bash
+  pip install torch==1.9.0 torchvision==0.10.0 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 ## Deployment
 
