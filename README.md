@@ -11,33 +11,25 @@ Project Objective:
 
 
 ## Appendix
-Edan Meyer [Let's Recreate Google Translate! | Neural Machine Translation](https://www.youtube.com/watch?v=HuZq5KkLx8Q&list=PL_49VD9KwQ_ObGMW5g9hMOLnDY01NHv91)
+François Chollet [English-to-Spanish translation with a sequence-to-sequence Transformer](https://keras.io/examples/nlp/neural_machine_translation_with_transformer/)
 
 ## 🖥️ Installation
 
 ### 🛠️ Requirements
-- Tensorflow 2.7.0
+- Tensorflow 2.8.0
     
 ## ⚙️ Setup
 - Install :-
 ```bash
+  pip install ipykernel
+```
+```bash
+  pip install numpy
+```
+```bash
   pip install tensorflow
 ```
-```bash
-  pip install transformers sentencepiece datasets
-```
-```bash
-  pip install ipywidgets
-```
-```bash
-  pip install matplotlib
-```
-```bash
-  pip install seaborn
-```
-```bash
-  pip install torch==1.9.0 torchvision==0.10.0 -f https://download.pytorch.org/whl/torch_stable.html
-```
+
 ## Deployment
 
 
