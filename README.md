@@ -11,7 +11,8 @@ Project Objective:
 
 
 ## Appendix
-François Chollet [English-to-Spanish translation with a sequence-to-sequence Transformer](https://keras.io/examples/nlp/neural_machine_translation_with_transformer/)
+Quinn Lanners [Neural Machine Translation](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
+Sean Robertson [NLP FROM SCRATCH: TRANSLATION WITH A SEQUENCE TO SEQUENCE NETWORK AND ATTENTION](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
 ## 🖥️ Installation
 
@@ -21,13 +22,13 @@ François Chollet [English-to-Spanish translation with a sequence-to-sequence Tr
 ## ⚙️ Setup
 - Install :-
 ```bash
-  pip install ipykernel
+  pip install psutil
 ```
 ```bash
   pip install numpy
 ```
 ```bash
-  pip install tensorflow
+  pip install matplotlib torch==1.9.0 torchvision==0.10.0
 ```
 
 ## Deployment
