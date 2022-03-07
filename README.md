@@ -19,7 +19,7 @@ François Chollet [English-to-Spanish translation with a sequence-to-sequence Tr
 ### Helpful Articles to Understand Content and Concepts
 David Amos [The Ultimate Guide To Speech Recognition With Python](https://realpython.com/python-speech-recognition/)
 
-Catherine Breslin [Under the Hood: Automatic Speech Recognition](cobaltspeech.com/coblog/2019/10/17/under-the-hood-automatic-speech-recognition)
+Catherine Breslin [Under the Hood: Automatic Speech Recognition](https://www.cobaltspeech.com/coblog/2019/10/17/under-the-hood-automatic-speech-recognition)
 
 Supervisely [How to build end-to-end recognition system](https://www.youtube.com/watch?v=uVbOckyUemo)
 
