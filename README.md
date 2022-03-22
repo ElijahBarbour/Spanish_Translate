@@ -16,6 +16,8 @@ Sean Robertson [NLP FROM SCRATCH: TRANSLATION WITH A SEQUENCE TO SEQUENCE NETWOR
 
 François Chollet [English-to-Spanish translation with a sequence-to-sequence Transformer](https://keras.io/examples/nlp/neural_machine_translation_with_transformer/)
 
+https://github.com/whitphx/streamlit-stt-app/blob/main/app_deepspeech.py
+
 ### Helpful Articles to Understand Content and Concepts
 David Amos [The Ultimate Guide To Speech Recognition With Python](https://realpython.com/python-speech-recognition/)
 
@@ -38,12 +40,17 @@ Vijaysinh Lendave [LSTM Vs GRU in Recurrent Neural Network: A Comparative Study]
 ## ⚙️ Setup
 - Install :-
 ```bash
-  pip install psutil numpy matplotlib pandas
+  pip install psutil numpy matplotlib pandas SpeechRecognition streamlit streamlit_webrtc
 ```
 ```bash
   pip3 install torch==1.10.2+cu113 torchvision==0.11.3+cu113 torchaudio===0.10.2+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
 ```
-
+```bash
+pip install pipwin
+```
+```bash
+pipwin install pyaudio
+```
 ## Deployment
 
 
